@@ -21,7 +21,7 @@ before_script:
 deploy:
   stage: deploy
   script:
-    # Run the bot script (replace with your actual script name)
+    # Run the bot script (kalaji)
     - python kalaji.py
   only:
     - main  # Run this pipeline only for changes on the main branch
