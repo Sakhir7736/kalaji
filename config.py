@@ -1,0 +1,12 @@
+BOT_TOKEN=("7981508772:AAE8fOreE0GX3DvAsJ_6UpHuPlJnMFxg_xg")
+
+OWNER_USERNAME=("@KaliaYtOwner")
+
+ADMIN_IDS=("5304771807")
+
+
+
+
+
+
+  
